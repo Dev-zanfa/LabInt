@@ -1,0 +1,16 @@
+\documentclass[../lab2.tex]{subfiles}
+
+\begin{document}
+    In questa configurazione i due host comunicano attraverso adattatori powerline,
+    quindi l'informazione passa attraverso l'impianto elettrico.
+    La velocità di trasmissione così come i protocolli utilizzati a questo livello
+    non sono noti, quindi si ipotizza l'uso del protocollo ethernet e si cerca di 
+    stimare la velocità tra i due adattatori powerline.
+    È possibile notare, utlizzando il comando ethtool, che la velocità massima negoziata
+    tra il router e gli host è di 100 Mb/s, quindi si usa questa come scenario di caso peggiore. 
+    Di seguito è riportato uno schema dello scenario analizzato, con le rispettive velocità:
+
+    \begin{center}
+        \includegraphics[width=1\linewidth]{conf4.png}
+    \end{center}
+\end{document}

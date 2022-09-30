@@ -1,0 +1,412 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  10 MAY 2021 00:08
+entering extended mode
+**"c:/Users/Diego/Desktop/uni/3° ANNO_secondo semestre/LAB DI INTERNET/RELAZ IND/LATEX/REL/lab1.tex"
+(c:/Users/Diego/Desktop/uni/3° ANNO_secondo semestre/LAB DI INTERNET/RELAZ IND/LATEX/REL/lab1.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03> (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\lst@mode=\count187
+\lst@gtempboxa=\box47
+\lst@token=\toks16
+\lst@length=\count188
+\lst@currlwidth=\dimen139
+\lst@column=\count189
+\lst@pos=\count190
+\lst@lostspace=\dimen140
+\lst@width=\dimen141
+\lst@newlines=\count191
+\lst@lineno=\count192
+\lst@maxwidth=\dimen142
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count193
+\lst@skipnumbers=\count194
+\lst@framebox=\box48
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen145
+\WF@size=\dimen146
+\c@WF@wrappedlines=\count195
+\WF@box=\box49
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks20
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count199
+\U@D=\dimen155
+\l@babelnohyphens=\language79
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count266
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.ldf
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count267
+\it@doublequoteactive=\count268
+\it@ISOcompliance=\count269
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count271
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box50
+)
+\tc@llx=\dimen156
+\tc@lly=\dimen157
+\tc@urx=\dimen158
+\tc@ury=\dimen159
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen160
+\adjbox@Height=\dimen161
+\adjbox@Depth=\dimen162
+\adjbox@Totalheight=\dimen163
+\adjbox@pwidth=\dimen164
+\adjbox@pheight=\dimen165
+\adjbox@pdepth=\dimen166
+\adjbox@ptotalheight=\dimen167
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count272
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box51
+\sift@deathcycles=\count273
+\@vwid@loff=\dimen168
+\@vwid@roff=\dimen169
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen170
+\captionmargin@=\dimen171
+\captionwidth=\dimen172
+\caption@tempdima=\dimen173
+\caption@indent=\dimen174
+\caption@parindent=\dimen175
+\caption@hangindent=\dimen176
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count274
+\c@continuedfloat=\count275
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen177
+\ttl@minus=\dimen178
+\ttl@toksa=\toks23
+\titlewidth=\dimen179
+\titlewidthlast=\dimen180
+\titlewidthfirst=\dimen181
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read3
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box53
+) (c:/Users\Diego\Desktop\uni\3° ANNO_secondo semestre\LAB DI INTERNET\RELAZ IND\LATEX\REL\lab1.aux)
+\openout1 = `lab1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+\c@lstlisting=\count277
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen182
+\scratchbox=\box54
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen183
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks27
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.22636pt
+* modes: heightrounded 
+* h-part:(L,W,R)=(56.9055pt, 469.4705pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.4705pt
+* \textheight=730.0pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \it@ocap on input line 32.
+LaTeX Info: Redefining \it@ccap on input line 32.
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 32.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 35.
+
+
+LaTeX Warning: No \author given.
+
+<./images//logo_poli_nuovo.jpg, id=1, 110.0913pt x 77.8107pt>
+File: ./images//logo_poli_nuovo.jpg Graphic file (type jpg)
+<use ./images//logo_poli_nuovo.jpg>
+Package pdftex.def Info: ./images//logo_poli_nuovo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 297.24536pt x 210.0881pt.
+[1
+
+{C:/Users/Diego/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images//logo_poli_nuovo.jpg>]
+<./images//setup iniziale.png, id=10, 674.52pt x 200.24812pt>
+File: ./images//setup iniziale.png Graphic file (type png)
+<use ./images//setup iniziale.png>
+Package pdftex.def Info: ./images//setup iniziale.png  used on input line 54.
+(pdftex.def)             Requested size: 337.25917pt x 100.12381pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 62.
+<./images//sudo_vs_user_def.png, id=12, 481.8pt x 361.35pt>
+File: ./images//sudo_vs_user_def.png Graphic file (type png)
+<use ./images//sudo_vs_user_def.png>
+Package pdftex.def Info: ./images//sudo_vs_user_def.png  used on input line 70.
+(pdftex.def)             Requested size: 234.73524pt x 176.04852pt.
+<./images//vm_tcp_completo.png, id=13, 770.88pt x 578.16pt>
+File: ./images//vm_tcp_completo.png Graphic file (type png)
+<use ./images//vm_tcp_completo.png>
+Package pdftex.def Info: ./images//vm_tcp_completo.png  used on input line 98.
+(pdftex.def)             Requested size: 230.04312pt x 172.53185pt.
+<./images//vm_tcp_num_test.png, id=14, 770.88pt x 578.16pt>
+File: ./images//vm_tcp_num_test.png Graphic file (type png)
+<use ./images//vm_tcp_num_test.png>
+Package pdftex.def Info: ./images//vm_tcp_num_test.png  used on input line 104.
+(pdftex.def)             Requested size: 230.04312pt x 172.53185pt.
+<./images//servizi attivi su vm.png, id=15, 399.74344pt x 172.39406pt>
+File: ./images//servizi attivi su vm.png Graphic file (type png)
+<use ./images//servizi attivi su vm.png>
+Package pdftex.def Info: ./images//servizi attivi su vm.png  used on input line 112.
+(pdftex.def)             Requested size: 234.73524pt x 101.23285pt.
+ [2 <./images//setup iniziale.png> <./images//sudo_vs_user_def.png (PNG copy)>]
+<./images//vm_udp.png, id=25, 770.88pt x 578.16pt>
+File: ./images//vm_udp.png Graphic file (type png)
+<use ./images//vm_udp.png>
+Package pdftex.def Info: ./images//vm_udp.png  used on input line 144.
+(pdftex.def)             Requested size: 230.04312pt x 172.53185pt.
+<./images//ratelimit.png, id=26, 770.88pt x 578.16pt>
+File: ./images//ratelimit.png Graphic file (type png)
+<use ./images//ratelimit.png>
+Package pdftex.def Info: ./images//ratelimit.png  used on input line 150.
+(pdftex.def)             Requested size: 230.04312pt x 172.53185pt.
+<./images//Servizi attivi su vm con udp.png, id=27, 411.78844pt x 121.95563pt>
+File: ./images//Servizi attivi su vm con udp.png Graphic file (type png)
+<use ./images//Servizi attivi su vm con udp.png>
+Package pdftex.def Info: ./images//Servizi attivi su vm con udp.png  used on input line 159.
+(pdftex.def)             Requested size: 234.73524pt x 69.51913pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--172
+
+ []
+
+<./images//vm_udp_num_test.png, id=28, 770.88pt x 578.16pt>
+File: ./images//vm_udp_num_test.png Graphic file (type png)
+<use ./images//vm_udp_num_test.png>
+Package pdftex.def Info: ./images//vm_udp_num_test.png  used on input line 175.
+(pdftex.def)             Requested size: 234.73524pt x 176.05182pt.
+[3 <./images//vm_tcp_completo.png> <./images//vm_tcp_num_test.png> <./images//servizi attivi su vm.png> <./images//Servizi attivi su vm con udp.png>]
+<./images//firestick_tcp.png, id=36, 770.88pt x 578.16pt>
+File: ./images//firestick_tcp.png Graphic file (type png)
+<use ./images//firestick_tcp.png>
+Package pdftex.def Info: ./images//firestick_tcp.png  used on input line 197.
+(pdftex.def)             Requested size: 230.04312pt x 172.53185pt.
+<./images//Firestick_tcp_num_test.png, id=37, 770.88pt x 578.16pt>
+File: ./images//Firestick_tcp_num_test.png Graphic file (type png)
+<use ./images//Firestick_tcp_num_test.png>
+Package pdftex.def Info: ./images//Firestick_tcp_num_test.png  used on input line 203.
+(pdftex.def)             Requested size: 230.04312pt x 172.53185pt.
+ [4 <./images//vm_udp.png> <./images//ratelimit.png> <./images//vm_udp_num_test.png> <./images//firestick_tcp.png> <./images//Firestick_tcp_num_test.png>]
+<./images//Firestick_udp.png, id=46, 770.88pt x 578.16pt>
+File: ./images//Firestick_udp.png Graphic file (type png)
+<use ./images//Firestick_udp.png>
+Package pdftex.def Info: ./images//Firestick_udp.png  used on input line 235.
+(pdftex.def)             Requested size: 230.04312pt x 172.53185pt.
+<./images//Firestick_udp_num_test.png, id=47, 770.88pt x 578.16pt>
+File: ./images//Firestick_udp_num_test.png Graphic file (type png)
+<use ./images//Firestick_udp_num_test.png>
+Package pdftex.def Info: ./images//Firestick_udp_num_test.png  used on input line 241.
+(pdftex.def)             Requested size: 230.04312pt x 172.53185pt.
+<./images//port_unreach_vs_time (1).png, id=48, 1026.83624pt x 490.83376pt>
+File: ./images//port_unreach_vs_time (1).png Graphic file (type png)
+<use ./images//port_unreach_vs_time (1).png>
+Package pdftex.def Info: ./images//port_unreach_vs_time (1).png  used on input line 256.
+(pdftex.def)             Requested size: 234.73524pt x 112.20035pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--258
+
+ []
+
+[5 <./images//Firestick_udp.png> <./images//Firestick_udp_num_test.png> <./images//port_unreach_vs_time (1).png (PNG copy)>]
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 297.
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [6] [7] [8] [9] (c:/Users\Diego\Desktop\uni\3° ANNO_secondo semestre\LAB DI INTERNET\RELAZ IND\LATEX\REL\lab1.aux) ) 
+Here is how much of TeX's memory you used:
+ 7139 strings out of 479334
+ 115088 string characters out of 2857084
+ 623641 words of memory out of 3000000
+ 24490 multiletter control sequences out of 15000+200000
+ 409142 words of font info for 46 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 69i,7n,117p,333b,400s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Diego\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt1000.pk><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "c:/Users\Diego\Desktop\uni\3° ANNO_secondo semestre\LAB DI INTERNET\RELAZ IND\LATEX\REL\lab1.pdf" (9 pages, 1187664 bytes).
+PDF statistics:
+ 109 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+

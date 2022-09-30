@@ -1,0 +1,465 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  20 MAR 2021 13:09
+entering extended mode
+**"c:/Users/Diego/Desktop/uni/3° ANNO_secondo semestre/LAB DI INTERNET/Materiale lab/Lab1/Lab1/lab1.tex"
+(c:/Users/Diego/Desktop/uni/3° ANNO_secondo semestre/LAB DI INTERNET/Materiale lab/Lab1/Lab1/lab1.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03> (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\lst@mode=\count187
+\lst@gtempboxa=\box47
+\lst@token=\toks16
+\lst@length=\count188
+\lst@currlwidth=\dimen139
+\lst@column=\count189
+\lst@pos=\count190
+\lst@lostspace=\dimen140
+\lst@width=\dimen141
+\lst@newlines=\count191
+\lst@lineno=\count192
+\lst@maxwidth=\dimen142
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count193
+\lst@skipnumbers=\count194
+\lst@framebox=\box48
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen145
+\WF@size=\dimen146
+\c@WF@wrappedlines=\count195
+\WF@box=\box49
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks20
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count199
+\U@D=\dimen155
+\l@babelnohyphens=\language79
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count266
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.ldf
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count267
+\it@doublequoteactive=\count268
+\it@ISOcompliance=\count269
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count271
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box50
+)
+\tc@llx=\dimen156
+\tc@lly=\dimen157
+\tc@urx=\dimen158
+\tc@ury=\dimen159
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen160
+\adjbox@Height=\dimen161
+\adjbox@Depth=\dimen162
+\adjbox@Totalheight=\dimen163
+\adjbox@pwidth=\dimen164
+\adjbox@pheight=\dimen165
+\adjbox@pdepth=\dimen166
+\adjbox@ptotalheight=\dimen167
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count272
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box51
+\sift@deathcycles=\count273
+\@vwid@loff=\dimen168
+\@vwid@roff=\dimen169
+)) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen170
+\captionmargin@=\dimen171
+\captionwidth=\dimen172
+\caption@tempdima=\dimen173
+\caption@indent=\dimen174
+\caption@parindent=\dimen175
+\caption@hangindent=\dimen176
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count274
+\c@continuedfloat=\count275
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen177
+\ttl@minus=\dimen178
+\ttl@toksa=\toks23
+\titlewidth=\dimen179
+\titlewidthlast=\dimen180
+\titlewidthfirst=\dimen181
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box53
+) (c:/Users\Diego\Desktop\uni\3° ANNO_secondo semestre\LAB DI INTERNET\Materiale lab\Lab1\Lab1\lab1.aux)
+\openout1 = `lab1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+\c@lstlisting=\count277
+ (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen182
+\scratchbox=\box54
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen183
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks25
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.22636pt
+* modes: heightrounded 
+* h-part:(L,W,R)=(56.9055pt, 469.4705pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.4705pt
+* \textheight=730.0pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \it@ocap on input line 28.
+LaTeX Info: Redefining \it@ccap on input line 28.
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 28.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (C:\Users\Diego\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 31.
+<./images//logo_poli.png, id=1, 301.125pt x 123.46124pt>
+File: ./images//logo_poli.png Graphic file (type png)
+<use ./images//logo_poli.png>
+Package pdftex.def Info: ./images//logo_poli.png  used on input line 34.
+(pdftex.def)             Requested size: 225.84319pt x 92.59569pt.
+ [1
+
+{C:/Users/Diego/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images//logo_poli.png>]
+<./images//rete1.png, id=10, 1502.61375pt x 935.495pt>
+File: ./images//rete1.png Graphic file (type png)
+<use ./images//rete1.png>
+Package pdftex.def Info: ./images//rete1.png  used on input line 50.
+(pdftex.def)             Requested size: 375.65251pt x 233.87317pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 56.
+<./images//broadcast1.png, id=12, 1162.3425pt x 603.0028pt>
+File: ./images//broadcast1.png Graphic file (type png)
+<use ./images//broadcast1.png>
+Package pdftex.def Info: ./images//broadcast1.png  used on input line 65.
+(pdftex.def)             Requested size: 234.73524pt x 121.77615pt.
+<./images//wiresharkbroadcast.png, id=13, 1973.87437pt x 442.65375pt>
+File: ./images//wiresharkbroadcast.png Graphic file (type png)
+<use ./images//wiresharkbroadcast.png>
+Package pdftex.def Info: ./images//wiresharkbroadcast.png  used on input line 66.
+(pdftex.def)             Requested size: 234.73524pt x 52.6366pt.
+
+Underfull \hbox (badness 1038) in paragraph at lines 76--80
+\OT1/cmr/m/n/10 non ci sara su-bi-to una ARP Request da par-
+ []
+
+[2 <./images//rete1.png> <./images//broadcast1.png> <./images//wiresharkbroadcast.png>]
+<./images//indirizzorete.png, id=24, 1967.85187pt x 446.41782pt>
+File: ./images//indirizzorete.png Graphic file (type png)
+<use ./images//indirizzorete.png>
+Package pdftex.def Info: ./images//indirizzorete.png  used on input line 89.
+(pdftex.def)             Requested size: 328.62791pt x 74.5481pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--90
+
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 92--93
+[]\OT1/cmr/m/n/10 Si puo no-ta-re
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 92--93
+\OT1/cmr/m/n/10 men-to quan-do si
+ []
+
+<./images//duplicati1.png, id=25, 1955.80687pt x 829.59938pt>
+File: ./images//duplicati1.png Graphic file (type png)
+<use ./images//duplicati1.png>
+Package pdftex.def Info: ./images//duplicati1.png  used on input line 104.
+(pdftex.def)             Requested size: 281.68517pt x 119.47234pt.
+<./images//host1ARP.png, id=26, 1218.05063pt x 145.29282pt>
+File: ./images//host1ARP.png Graphic file (type png)
+<use ./images//host1ARP.png>
+Package pdftex.def Info: ./images//host1ARP.png  used on input line 115.
+(pdftex.def)             Requested size: 281.68517pt x 33.60065pt.
+
+Underfull \hbox (badness 1194) in paragraph at lines 131--133
+\OT1/cmr/m/n/10 l'ARP request di H2 e le due
+ []
+
+<./images//es2.2host2.png, id=27, 1939.245pt x 610.53094pt>
+File: ./images//es2.2host2.png Graphic file (type png)
+<use ./images//es2.2host2.png>
+Package pdftex.def Info: ./images//es2.2host2.png  used on input line 144.
+(pdftex.def)             Requested size: 352.10287pt x 110.85036pt.
+
+Package wrapfig Warning: Collision between wrapping environments on input line 150.
+
+<./images//Commutazione.png, id=28, 1969.3575pt x 607.51968pt>
+File: ./images//Commutazione.png Graphic file (type png)
+<use ./images//Commutazione.png>
+Package pdftex.def Info: ./images//Commutazione.png  used on input line 152.
+(pdftex.def)             Requested size: 352.10287pt x 108.61649pt.
+
+Underfull \hbox (badness 1038) in paragraph at lines 147--153
+[]\OT1/cmr/m/n/10 Se in-ve-ce ese-guia-mo il
+ []
+
+
+Overfull \hbox (2.79927pt too wide) in paragraph at lines 147--153
+\OT1/cmr/m/n/10 Ping con-tem-po-ra-nea-men-
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 147--153
+\OT1/cmr/m/n/10 le e al-ter-na-to ad en-
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 147--153
+\OT1/cmr/m/n/10 tram-bi. Ana-liz-zan-do
+ []
+
+[3 <./images//indirizzorete.png> <./images//duplicati1.png> <./images//host1ARP.png> <./images//es2.2host2.png>]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 153.
+
+<./images//es3.png, id=36, 1032.10594pt x 858.95906pt>
+File: ./images//es3.png Graphic file (type png)
+<use ./images//es3.png>
+Package pdftex.def Info: ./images//es3.png  used on input line 168.
+(pdftex.def)             Requested size: 157.73999pt x 131.27614pt.
+<./images//es3hostUnreach.png, id=37, 1212.02812pt x 526.96875pt>
+File: ./images//es3hostUnreach.png Graphic file (type png)
+<use ./images//es3hostUnreach.png>
+Package pdftex.def Info: ./images//es3hostUnreach.png  used on input line 181.
+(pdftex.def)             Requested size: 187.78891pt x 81.64714pt.
+<./images//es3NetworkUnreach.png, id=38, 1190.94937pt x 162.6075pt>
+File: ./images//es3NetworkUnreach.png Graphic file (type png)
+<use ./images//es3NetworkUnreach.png>
+Package pdftex.def Info: ./images//es3NetworkUnreach.png  used on input line 194.
+(pdftex.def)             Requested size: 187.78532pt x 25.6381pt.
+[4 <./images//Commutazione.png> <./images//es3.png> <./images//es3hostUnreach.png> <./images//es3NetworkUnreach.png>]
+<./images//es4.png, id=46, 1318.9275pt x 1266.7325pt>
+File: ./images//es4.png Graphic file (type png)
+<use ./images//es4.png>
+Package pdftex.def Info: ./images//es4.png  used on input line 205.
+(pdftex.def)             Requested size: 157.73999pt x 151.47946pt.
+
+Underfull \hbox (badness 1546) in paragraph at lines 213--215
+\OT1/cmr/m/n/10 poiche l'in-di-riz-zo di
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 213--215
+\OT1/cmr/m/it/10 Sour-ce \OT1/cmr/m/n/10 e quel-lo di
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 213--215
+\OT1/cmr/m/n/10 non puo ri-spon-de-re
+ []
+
+<./images//es4.1.png, id=47, 2803.47375pt x 1027.58907pt>
+File: ./images//es4.1.png Graphic file (type png)
+<use ./images//es4.1.png>
+Package pdftex.def Info: ./images//es4.1.png  used on input line 218.
+(pdftex.def)             Requested size: 384.49684pt x 140.92938pt.
+
+Overfull \hbox (18.31042pt too wide) in paragraph at lines 218--219
+ [][] 
+ []
+
+<./images//es4.2.1.png, id=48, 1956.5597pt x 1015.54407pt>
+File: ./images//es4.2.1.png Graphic file (type png)
+<use ./images//es4.2.1.png>
+Package pdftex.def Info: ./images//es4.2.1.png  used on input line 232.
+(pdftex.def)             Requested size: 230.04312pt x 119.39616pt.
+<./images//es4.2.2.png, id=49, 2469.225pt x 1057.70157pt>
+File: ./images//es4.2.2.png Graphic file (type png)
+<use ./images//es4.2.2.png>
+Package pdftex.def Info: ./images//es4.2.2.png  used on input line 236.
+(pdftex.def)             Requested size: 230.04312pt x 98.52985pt.
+[5 <./images//es4.png> <./images//es4.1.png> <./images//es4.2.1.png> <./images//es4.2.2.png>] (c:/Users\Diego\Desktop\uni\3° ANNO_secondo semestre\LAB DI INTERNET\Materiale lab\Lab1\Lab1\lab1.aux) ) 
+Here is how much of TeX's memory you used:
+ 7076 strings out of 479334
+ 113196 string characters out of 2857084
+ 612893 words of memory out of 3000000
+ 24435 multiletter control sequences out of 15000+200000
+ 408022 words of font info for 42 fonts, out of 3000000 for 9000
+ 1146 hyphenation exceptions out of 8191
+ 69i,9n,117p,585b,363s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Diego/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "c:/Users\Diego\Desktop\uni\3° ANNO_secondo semestre\LAB DI INTERNET\Materiale lab\Lab1\Lab1\lab1.pdf" (5 pages, 1966568 bytes).
+PDF statistics:
+ 79 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

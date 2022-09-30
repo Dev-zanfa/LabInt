@@ -1,0 +1,118 @@
+\documentclass{article}
+\usepackage{listings}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subfiles}
+\usepackage{wrapfig}
+\usepackage{geometry}
+\usepackage[italian]{babel}
+\usepackage[export]{adjustbox}
+\usepackage[font=scriptsize]{caption}
+\usepackage{titlesec}
+\usepackage{amsmath}
+\usepackage[titletoc]{appendix}
+
+\setcounter{section}{-1}
+
+
+
+
+\titlespacing*{\section}
+{0pt}{3ex plus 1ex minus .2ex}{3ex plus .2ex}
+\titlespacing*{\subsection}
+{0pt}{3ex plus 1ex minus .2ex}{3ex plus .2ex}
+\graphicspath{ {./images/} }
+\geometry{a4paper, top=2cm, bottom=2cm, left=2cm, right=2cm, heightrounded, bindingoffset=5mm}
+
+\title{\Huge LABORATORIO DI INTERNET 
+    \\ Report 3: Test performance con\\ off the shell hardware}
+\author{Gruppo 21}
+\date{Maggio 2021}
+
+\begin{document}
+    \maketitle
+
+    \begin{center}
+        \includegraphics[scale=0.1]{polito_logo_2021_blu.jpg}
+
+        \vspace{20mm}
+
+        Diego Zanfardino s256536, \\
+        Fabio Trovero s258574, \\
+        Lorenzo Ferro s260878
+
+        \vspace{10mm}
+        prof. Mellia Marco
+    \end{center}
+
+    \pagebreak
+
+    % ========
+    % ========
+
+    \section{Introduzione}
+    In questo laboratorio si cerca di predirre il goodput di un modello di rete semplificato con
+    l'utilizzo del comando \textit{iperf3}. Per valutare l'effettiva velocità di connessione tra due 
+    host \textit{iperf} utilizza: 
+    \begin{equation}
+        \centering
+        goodput = \frac{ dati\:utili\:(a\:livello\:7)}{\Delta T } = \frac{\eta}{\Delta T } 
+    \end{equation}
+    Noi siamo invece in grado di predirre il risultato dei test calcolando l'efficienza
+    attesa della rete, e successivamente la velocità massima come segue:
+    \begin{equation}
+        \centering
+        V_{MAX} = \eta \cdot C = \frac{S}{S+header_{TCP|UDP}+header_{IP}+header_{ETH}} \cdot C
+    \end{equation}
+    Dove \textit{C} è la capacità del canale e \textit{S} sono i dati utili 
+    scambiati a livello 7. 
+
+
+    \section{Scenario controllato: lan locale}
+    
+    \subfile{sections/conf1.tex}
+
+    \subsection{Risultati}
+    
+    \subfile{sections/ris1.tex}
+    
+    % ========
+    % ========
+
+    \section{Scenario internet}
+
+    \subfile{sections/conf2.tex}
+
+    \subsection{Risultati}
+
+    \subfile{sections/ris2.tex}
+
+    % ========
+    % ========  
+    \pagebreak
+    \subfile{sections/appendici.tex}
+    
+    \end{document}
+    \section{Configurazione utilizzata punto 3}
+
+    \subfile{sections/conf3.tex}
+
+    \subsection{Risultati}
+
+    \subfile{sections/ris3.tex}
+
+    % ========
+    % ========  
+
+    \section{Configurazione utilizzata punto 4}
+
+    \subfile{sections/conf4.tex}
+
+    \subsection{Risultati}
+
+    \subfile{sections/ris4.tex}
+
+    % ========
+    % ========  
+    
+

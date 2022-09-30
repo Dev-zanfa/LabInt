@@ -1,0 +1,133 @@
+\documentclass[../lab2.tex]{subfiles}
+
+\begin{document}
+\begin{appendices}
+
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    Collisioni prima del test & Collisioni dopo il test & Velocità sender & Velocità receiver\\
+    \hline    
+    44706 & 46985	& 7.13	& 6.94 \\
+    \hline    
+    46985 & 50133 &	7.03	&6.82\\
+    \hline    
+    50133 & 52652 &	7.13	&7.03\\
+    \hline  
+    52652 & 54812 &	7.24	&7.08\\
+    \hline  
+    54812 & 56999 &	7.24	&7.06\\
+    \hline  
+    56999 & 60774 &	6.71	&6.55\\
+    \hline  
+    60774 & 63026 &	7.13	&6.96\\
+    \hline  
+    63026 & 65215 &	7.24	&7.05\\
+    \hline  
+    65215 & 67387 &	7.03	&6.89\\
+    \hline  
+    67387 &	69572 &   7.13	&6.93 \\
+    \hline
+\end{tabular}
+
+    \section{Script per collezionare i dati}
+        \begin{verbatim}
+            for((s=100; s<15000; s+=100))
+            do
+	              echo -n $s >> dataset.dat 
+	              sudo ping 192.168.1.XX -s $s -c 5 -i 0,05 | grep min 
+                   | cut -d '=' -f2 | cut -d '/' -f1 >> dataset.dat
+            done
+            \end{verbatim}
+    \section{Script configurazione 1}
+        \begin{verbatim}
+            set xlabel "size L1 [byte]
+            set ylabel "RTT [ms]
+
+            set terminal png size 1024, 768
+
+            D(x)=(x+8)+(20+38)*(1+floor((x+8-1)/1480))
+
+            set output "RTTp.png"
+
+            plot 'rtt_min_h2.dat' using (D($1)):2 title "RTT powerline" with linespoint
+
+            set xlabel "size [byte]
+            set ylabel "velocità [kbyte]
+            set output "VTx.png"
+
+            plot 'rtt_min_h2.dat' using (D($1)):($1<1472 ? (8*4*(D($1))/($2)) : 
+              ((8*2*(D($1))/($2)) + (8*2*(D(1538)/($2)))))   
+              title "VTx H2 powerline" with linespoint
+        \end{verbatim}
+
+    \section{Script configurazione 2}
+        \begin{verbatim}
+            set xlabel "size L1 [byte]
+            set ylabel "RTT [ms]
+
+            set terminal png size 1024, 768
+
+            D(x)=(x+8)+(20+38)*(1+floor((x+8-1)/1480))
+
+            set output "RTTp.png"
+
+            plot 'rtt_min_h2.dat' using (D($1)):2 title "RTT powerline" with linespoint
+
+            set xlabel "size [byte]
+            set ylabel "velocità [kbyte]
+            set output "VTx.png"
+
+            plot 'rtt_min_h2.dat' using (D($1)):(8*2*(D($1))/($2)) 
+              title "VTx H2 powerline" with linespoint
+        \end{verbatim}
+        \pagebreak
+        \section{Script configurazione 3}
+        \begin{verbatim}
+            set xlabel "size L1 [Byte]
+            set ylabel "RTT [ms]
+
+            set terminal png size 1024, 768
+
+            D(x)=(x+8)+(20+38)*(1+floor((x+8-1)/1480))
+
+            set output "RTTW.png"
+
+            plot 'rtt_min_wifi.dat' using (D($1)):2 title "RTT" with linespoint
+
+            set xlabel "size [Byte]
+            set ylabel "velocità [KBit]
+
+            set output "VTxW.png"
+
+            plot 'rtt_min_wifi.dat' using (D($1)):( D($1)<1500 ? 
+              (((2*8*10000000*D($1))/( (10000)*($2) - 2*8*D($1) ))*0.001) :
+              (((2*8*10000000*1538)/( (10000)*($2) - 2*8*D($1) ))*0.001 ) ) 
+              title "VTx" with linespoint
+        \end{verbatim}
+
+        \section{Script configurazione 4}
+        \begin{verbatim}
+            set xlabel "size L1 [byte]
+            set ylabel "RTT [ms]
+
+            set terminal png size 1024, 768
+
+            D(x)=(x+8)+(20+38)*(1+floor((x+8-1)/1480))
+
+            set output "RTTPow.png"
+
+            plot 'rtt_min_h2_con_powerline.dat' using (D($1)):2 title "RTT" with linespoint
+
+            set xlabel "size [byte]
+            set ylabel "velocità [kbyte]
+
+            set output "VTxPow.png"
+
+            plot 'rtt_min_h2_con_powerline.dat' using (D($1)):( D($1)<1500 ? 
+              (4*8*D($1)*10**7*10**8/( ($2)*10**4*10**8 - (2*8*10**8*D($1)) - 
+              (6*8*10**7*D($1)) ))*0.001 : (4*8*1538*10**7*10**8/( ($2)*10**4*10**8 - 
+              (2*8*10**8*D($1)) - (6*8*10**7*D($1)) ))*0.001 ) with linespoint
+        \end{verbatim}
+
+  \end{appendices}
+\end{document}
