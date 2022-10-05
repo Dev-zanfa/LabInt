@@ -29,5 +29,5 @@ Using wireshark the following scenarios are analyzed, in particular exchanged pa
 In this expreience an estimate of the speed at phisical layer is made, using ping command and operating on transmitted packets.
 Different configuration are analyzed
 
-## Report 3 - performance test on *off the shell* hardware 
+## Report 3 - performance test on *off the shelf* hardware 
 Goodput estimate between two different host on a simplified network model, using *iperf3* to confirm the prediction
